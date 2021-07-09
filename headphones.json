@@ -1,7 +1,7 @@
 [
     {
         "Id": "SonyZ1R", 
-        "BrandId": "1", 
+        "BrandId": "1035", 
         "Brand": "Sony",
         "ProductName": "Z1R Premium Headphones",
         "GraphicName": "SonyZ1R.png",
@@ -13,7 +13,7 @@
     },
     {
         "Id": "SonyMDR", 
-        "BrandId": "1", 
+        "BrandId": "1035", 
         "Brand": "Sony",
         "ProductName": "MDR-Z7M2 Headphones",
         "GraphicName": "SonyMDR.png",
@@ -25,7 +25,7 @@
     },
     {
         "Id": "SonyWH", 
-        "BrandId": "1", 
+        "BrandId": "1035", 
         "Brand": "Sony",
         "ProductName": "WH-1000XM4 Headphones",
         "GraphicName": "SonyWH.png",
@@ -37,7 +37,7 @@
     },
     {
         "Id": "SonyIER", 
-        "BrandId": "1", 
+        "BrandId": "1035", 
         "Brand": "Sony",
         "ProductName": "IER-M9 In-Ear Monitors",
         "GraphicName": "SonyIER.png",
@@ -49,7 +49,7 @@
     },
     {
         "Id": "SonyWI", 
-        "BrandId": "1", 
+        "BrandId": "1035", 
         "Brand": "Sony",
         "ProductName": "WI-SP510 In-Ear Headphones",
         "GraphicName": "SonyWI.png",
@@ -61,7 +61,7 @@
     },
     {
         "Id": "BoseA20", 
-        "BrandId": "2", 
+        "BrandId": "1036", 
         "Brand": "Bose",
         "ProductName": "A20 Aviation Headset",
         "GraphicName": "BoseA20.png",
@@ -73,7 +73,7 @@
     },
     {
         "Id": "BoseGC20", 
-        "BrandId": "2", 
+        "BrandId": "1036", 
         "Brand": "Bose",
         "ProductName": "GC20 Noise Cancelling Headphones",
         "GraphicName": "BoseGC20.png",
@@ -85,7 +85,7 @@
     },
     {
         "Id": "BoseB40", 
-        "BrandId": "2", 
+        "BrandId": "1036", 
         "Brand": "Bose",
         "ProductName": "SoundComm B40 Headset",
         "GraphicName": "BoseB40.png",
@@ -97,7 +97,7 @@
     },
     {
         "Id": "BoseQC35", 
-        "BrandId": "2", 
+        "BrandId": "1036", 
         "Brand": "Bose",
         "ProductName": "QuietComfort 35 Wireless Headphones II",
         "GraphicName": "BoseQC35.png",
@@ -109,7 +109,7 @@
     },
     {
         "Id": "Bose700", 
-        "BrandId": "2", 
+        "BrandId": "1036", 
         "Brand": "Bose",
         "ProductName": "Bose Noise-Cancelling Headphones 700",
         "GraphicName": "Bose700.png",
@@ -121,7 +121,7 @@
     },
     {
         "Id": "SkullcandyANC", 
-        "BrandId": "3", 
+        "BrandId": "1037", 
         "Brand": "Skullcandy",
         "ProductName": "Crusher ANC Personalized Noise Cancelling Headphones",
         "GraphicName": "SkullcandyANC.png",
@@ -133,7 +133,7 @@
     },
     {
         "Id": "SkullcandyEvo", 
-        "BrandId": "3", 
+        "BrandId": "1037", 
         "Brand": "Skullcandy",
         "ProductName": "Hesh Evo Wireless Headphones",
         "GraphicName": "SkullcandyEvo.png",
@@ -145,7 +145,7 @@
     },
     {
         "Id": "SkullcandyRiff", 
-        "BrandId": "3", 
+        "BrandId": "1037", 
         "Brand": "Skullcandy",
         "ProductName": "Riff Wireless On-Ear Headphones",
         "GraphicName": "SkullcandyRiff.png",
@@ -157,7 +157,7 @@
     },
     {
         "Id": "SkullcandyDime", 
-        "BrandId": "3", 
+        "BrandId": "1037", 
         "Brand": "Skullcandy",
         "ProductName": "Dime True Wireless Earbuds",
         "GraphicName": "SkullcandyDime.png",
@@ -169,7 +169,7 @@
     },
     {
         "Id": "SkullcandyIndy", 
-        "BrandId": "3", 
+        "BrandId": "1037", 
         "Brand": "Skullcandy",
         "ProductName": "Indy ANC Fuel Noise Cancelling True Wireless",
         "GraphicName": "SkullcandyIndy.png",
