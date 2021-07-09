@@ -122,7 +122,7 @@
     {
         "Id": "SkullcandyANC", 
         "BrandId": "3", 
-        "Brand": "Skullcandy",
+        "Brand": "SC",
         "ProductName": "Crusher ANC Personalized Noise Cancelling Headphones",
         "GraphicName": "SkullcandyANC.png",
         "CostPrice": "399.99", 
@@ -134,7 +134,7 @@
     {
         "Id": "SkullcandyEvo", 
         "BrandId": "3", 
-        "Brand": "Skullcandy",
+        "Brand": "SC",
         "ProductName": "Hesh Evo Wireless Headphones",
         "GraphicName": "SkullcandyEvo.png",
         "CostPrice": "79.99", 
@@ -146,7 +146,7 @@
     {
         "Id": "SkullcandyRiff", 
         "BrandId": "3", 
-        "Brand": "Skullcandy",
+        "Brand": "SC",
         "ProductName": "Riff Wireless On-Ear Headphones",
         "GraphicName": "SkullcandyRiff.png",
         "CostPrice": "79.99", 
@@ -158,7 +158,7 @@
     {
         "Id": "SkullcandyDime", 
         "BrandId": "3", 
-        "Brand": "Skullcandy",
+        "Brand": "SC",
         "ProductName": "Dime True Wireless Earbuds",
         "GraphicName": "SkullcandyDime.png",
         "CostPrice": "39.99", 
@@ -170,7 +170,7 @@
     {
         "Id": "SkullcandyIndy", 
         "BrandId": "3", 
-        "Brand": "Skullcandy",
+        "Brand": "SC",
         "ProductName": "Indy ANC Fuel Noise Cancelling True Wireless",
         "GraphicName": "SkullcandyIndy.png",
         "CostPrice": "139.99", 
