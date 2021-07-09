@@ -1,0 +1,167 @@
+[
+    {
+        "Id": "SonyZ1R", 
+        "BrandId": 1, 
+        "ProductName": "Z1R Premium Headphones",
+        "GraphicName": "SonyZ1R.png",
+        "CostPrice": 2499.99, 
+        "MSRP": 2499.99, 
+        "QtyOnHand": 10, 
+        "QtyOnBackOrder": 0,
+        "Description": "70-mm HD driver unit, Resonance-free housing, Ergonomic enfolding design earpads"
+    },
+    {
+        "Id": "SonyMDR", 
+        "BrandId": 1, 
+        "ProductName": "MDR-Z7M2 Headphones",
+        "GraphicName": "SonyMDR.png",
+        "CostPrice": 799.99, 
+        "MSRP": 799.99, 
+        "QtyOnHand": 10, 
+        "QtyOnBackOrder": 0,
+        "Description": "High-Resolution Audio Compatible, 70-mm HD driver unit, 4.4-mm blanced audio connection"
+    },
+    {
+        "Id": "SonyWH", 
+        "BrandId": 1, 
+        "ProductName": "WH-1000XM4 Headphones",
+        "GraphicName": "SonyWH.png",
+        "CostPrice": 499.99, 
+        "MSRP": 499.99, 
+        "QtyOnHand": 10, 
+        "QtyOnBackOrder": 0,
+        "Description": "HD Noise Cancelling Processor QN1 lets you listen without distractions, High-quality wireless audio with BLUETOOTH technology"
+    },
+    {
+        "Id": "SonyIER", 
+        "BrandId": 1, 
+        "ProductName": "IER-M9 In-Ear Monitors",
+        "GraphicName": "SonyIER.png",
+        "CostPrice": 1499.99, 
+        "MSRP": 1499.99, 
+        "QtyOnHand": 10, 
+        "QtyOnBackOrder": 0,
+        "Description": "Penta BA system with super tweeter, Tuned to monitor the performance on stage, Light durable magnesium alloy outer housing"
+    },
+    {
+        "Id": "SonyWI", 
+        "BrandId": 1, 
+        "ProductName": "WI-SP510 In-Ear Headphones",
+        "GraphicName": "SonyWI.png",
+        "CostPrice": 129.99, 
+        "MSRP": 129.99, 
+        "QtyOnHand": 10, 
+        "QtyOnBackOrder": 0,
+        "Description": "BLUETOOTH wireless technology, Water resistant IPX5 rating, Up to 15 hours of battery life"
+    },
+    {
+        "Id": "BoseA20", 
+        "BrandId": 2, 
+        "ProductName": "A20 Aviation Headset",
+        "GraphicName": "BoseA20.png",
+        "CostPrice": 1329.99, 
+        "MSRP": 1329.99, 
+        "QtyOnHand": 10, 
+        "QtyOnBackOrder": 0,
+        "Description": "The A20 headset gives you 30% greater noise reduction than conventional aviation headsets, so you’ll enjoy a peaceful flight."
+    },
+    {
+        "Id": "BoseGC20", 
+        "BrandId": 2, 
+        "ProductName": "GC20 Noise Cancelling Headphones",
+        "GraphicName": "BoseGC20.png",
+        "CostPrice": 329.99, 
+        "MSRP": 329.99, 
+        "QtyOnHand": 10, 
+        "QtyOnBackOrder": 0,
+        "Description": "The QuietComfort 20 Acoustic Noise Cancelling headphones let you enjoy better sound every day, everywhere you go."
+    },
+    {
+        "Id": "BoseB40", 
+        "BrandId": 2, 
+        "ProductName": "SoundComm B40 Headset",
+        "GraphicName": "BoseB40.png",
+        "CostPrice": 1079.99, 
+        "MSRP": 1079.99, 
+        "QtyOnHand": 10, 
+        "QtyOnBackOrder": 0,
+        "Description": "Engineered to deliver the best combination of noise cancellation performance, clear communication, comfort and durability."
+    },
+    {
+        "Id": "BoseQC35", 
+        "BrandId": 2, 
+        "ProductName": "QuietComfort 35 Wireless Headphones II",
+        "GraphicName": "BoseQC35.png",
+        "CostPrice": 399.99, 
+        "MSRP": 399.99, 
+        "QtyOnHand": 10, 
+        "QtyOnBackOrder": 0,
+        "Description": "QuietComfort 35 wireless headphones II are engineered with renowned noise cancellation."
+    },
+    {
+        "Id": "Bose700", 
+        "BrandId": 2, 
+        "ProductName": "Bose Noise-Cancelling Headphones 700",
+        "GraphicName": "Bose700.png",
+        "CostPrice": 129.99, 
+        "MSRP": 129.99, 
+        "QtyOnHand": 10, 
+        "QtyOnBackOrder": 0,
+        "Description": "Critically acclaimed for their powerful noise cancelling, astonishing sound and unrivalled voice pickup."
+    },
+    {
+        "Id": "SkullcandyANC", 
+        "BrandId": 3, 
+        "ProductName": "Crusher ANC Personalized Noise Cancelling Headphones",
+        "GraphicName": "SkullcandyANC.png",
+        "CostPrice": 399.99, 
+        "MSRP": 399.99, 
+        "QtyOnHand": 10, 
+        "QtyOnBackOrder": 0,
+        "Description": "Adjustable Sensory Bass, Digital Active Noise Cancellation, Personal Sound, Bluetooth Wireless Technology"
+    },
+    {
+        "Id": "SkullcandyEvo", 
+        "BrandId": 3, 
+        "ProductName": "Hesh Evo Wireless Headphones",
+        "GraphicName": "SkullcandyEvo.png",
+        "CostPrice": 79.99, 
+        "MSRP": 79.99, 
+        "QtyOnHand": 10, 
+        "QtyOnBackOrder": 0,
+        "Description": "Up to 36 Hours of Battery, Rapid Charge (10 min = 3 hrs), Built-in Tile Finding Technology, Flat-Folding and Collapsible"
+    },
+    {
+        "Id": "SkullcandyRiff", 
+        "BrandId": 3, 
+        "ProductName": "Riff Wireless On-Ear Headphones",
+        "GraphicName": "SkullcandyRiff.png",
+        "CostPrice": 79.99, 
+        "MSRP": 79.99, 
+        "QtyOnHand": 10, 
+        "QtyOnBackOrder": 0,
+        "Description": "Bluetooth Wireless Technology, 12 Hours of Battery Life, Rapid Charge: 10 Minutes = 2 Hours, Ultra-Durable Headband"
+    },
+    {
+        "Id": "SkullcandyDime", 
+        "BrandId": 3, 
+        "ProductName": "Dime True Wireless Earbuds",
+        "GraphicName": "SkullcandyDime.png",
+        "CostPrice": 39.99, 
+        "MSRP": 39.99, 
+        "QtyOnHand": 10, 
+        "QtyOnBackOrder": 0,
+        "Description": "12 Hours of Battery Life, Track and Volume Control, Auto Connect, Secure Noise-Isolating Fit, IPX4 Sweat and Water Resistant"
+    },
+    {
+        "Id": "SkullcandyIndy", 
+        "BrandId": 3, 
+        "ProductName": "Indy ANC Fuel Noise Cancelling True Wireless",
+        "GraphicName": "SkullcandyIndy.png",
+        "CostPrice": 139.99, 
+        "MSRP": 139.99, 
+        "QtyOnHand": 10, 
+        "QtyOnBackOrder": 0,
+        "Description": "Digital Active Noise Cancellation, Wireless Charging Case, Personal Sound via Skullcandy App"
+    }
+]
